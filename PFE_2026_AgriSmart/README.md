@@ -1,4 +1,4 @@
-# Projet AgriSmart V2 – Ameni Dhahri
+# Projet AgriSmart V2 – Ameni Dhahri Iselm Atoui
 
 📦 **Dépôt source du projet** :  
 👉 https://github.com/amenidhahri28/mon-projet-pfe
